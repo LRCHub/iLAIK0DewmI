@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "完成 (2024) / 巡巡 (Official Instrumental)",
+  "base_artist": "n",
+  "createdAt": "2025-12-01T06:44:51.429074Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "完成",
+      "artist": "巡巡",
+      "has_synced": false,
+      "path": "select/pl_01_完成_巡巡.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "完成!豪獣神",
+      "artist": "巡巡",
+      "has_synced": false,
+      "path": "select/pl_02_完成!豪獣神_巡巡.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "完成",
+      "artist": "巡巡",
+      "has_synced": false,
+      "path": "select/pl_03_完成_巡巡.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "完成するヒーロー",
+      "artist": "巡巡",
+      "has_synced": false,
+      "path": "select/pl_04_完成するヒーロー_巡巡.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "完成 (2024)",
+      "artist": "巡巡",
+      "has_synced": false,
+      "path": "select/pl_05_完成_(2024)_巡巡.txt"
+    }
+  ]
+}
